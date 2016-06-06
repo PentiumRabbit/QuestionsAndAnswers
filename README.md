@@ -1,0 +1,2 @@
+# QuestionsAndAnswers
+用于英文翻译查询的jetbrain家族插件
